@@ -1,0 +1,16 @@
+{
+    "name": "alihaider55533/command",
+    "authors": [
+        {
+            "name": "RazziTechverx",
+            "email": "razzi.aftab@techverx.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Techverx\\Command\\": "src/"
+        }
+    },
+    "require": {}
+}
